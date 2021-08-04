@@ -1,5 +1,5 @@
-###  Olá 👋
-- 🔭 Hoje eu trabalho como Front-end
+###  Oiii eu me chamo Kaê 👋
+- 🔭 Trabalho como Front-end
 - 😄 Pronouns: Ele/Dele
 
  <div>
